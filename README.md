@@ -1,4 +1,4 @@
-# CItyU_CS4186
+# CityU_CS4186
 
 This project contains the two assignments of CS4186, computer vision, and image processing, in the City University of Hong Kong.
 
